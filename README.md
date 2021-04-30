@@ -1,5 +1,3 @@
-<img src="https://unsplash.com/photos/xrVDYZRGdw4"/>
-
 <h1 align="center">Hi 👋, I'm Habib ur rehman</h1>
 <h3 align="center">A Python Developer from Pakistan</h3>
 
